@@ -1,0 +1,93 @@
+{
+	"storyName": "Extra Songs",
+	"hideFreeplay": false,
+	"weekBackground": "",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "tutorial",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"",
+		"bf",
+		"gf"
+	],
+	"songs": [
+		[
+			"Chaos",
+			"supersonic",
+			[
+				255,
+				255,
+				0
+			]
+		],
+		[
+			"Endless",
+			"SonicFun",
+			[
+				0,
+				0,
+				255
+			]
+		],
+		[
+			"Sunshine",
+			"tailsdoll",
+			[
+				0,
+				0,
+				0
+			]
+		],
+		[
+			"Cycles",
+			"lordx",
+			[
+				160,
+				193,
+				253
+			]
+		],
+		[
+			"Milk",
+			"sunky",
+			[
+				0,
+				100,
+				255
+			]
+		],
+		[
+			"Faker",
+			"faker",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"Black-sun",
+			"exe",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"Too-fest",
+			"sanic",
+			[
+				146,
+				113,
+				253
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekName": "Week 2"
+}

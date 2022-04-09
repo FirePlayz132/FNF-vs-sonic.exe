@@ -1,0 +1,75 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				194,
+				189
+			],
+			"anim": "firstDeath",
+			"fps": 24,
+			"name": "DieLmao",
+			"indices": [
+				0,
+				1
+			]
+		},
+		{
+			"loop": true,
+			"offsets": [
+				589,
+				326
+			],
+			"anim": "deathLoop",
+			"fps": 24,
+			"name": "DieLmao",
+			"indices": [
+				0,
+				1
+			]
+		},
+		{
+			"loop": false,
+			"offsets": [
+				589,
+				326
+			],
+			"anim": "deathConfirm",
+			"fps": 24,
+			"name": "DieLmao",
+			"indices": [
+				2,
+				3,
+				4,
+				5,
+				6,
+				7,
+				8,
+				9,
+				10,
+				11,
+				12,
+				13
+			]
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/exedeath",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "bf",
+	"flip_x": true,
+	"healthbar_colors": [
+		0,
+		0,
+		0
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 4,
+	"scale": 0.999999999999999
+}
